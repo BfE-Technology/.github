@@ -1,8 +1,8 @@
 # How to contribute
 
-First off, thank you for taking the time to contribute to BfE's .github. It is people like you that make it possible for BfE's .github to be such a great resource for everyone and enable Bridges for Enterprise (BfE) to better serve the community.
+First off, thank you for taking the time to contribute to [PROJECT NAME]. It is people like you that make it possible for [PROJECT NAME] to be such a great resource for everyone and enable Bridges for Enterprise (BfE) to better serve the community.
 
-This document outlines the various ways in which you can contribute to BfE's .github and the wider BfE community.
+This document outlines the various ways in which you can contribute to [PROJECT NAME] and the wider BfE community.
 
 ## Code of Conduct
 
